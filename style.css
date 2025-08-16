@@ -200,17 +200,17 @@ a:hover {
 /* ===== HERO SECTION - ГОЛОВНА СЕКЦІЯ ===== */
 .hero {
     min-height: 82vh;
-        padding: 64px 32px;
-        color: white;
-        text-shadow: 1px 1px 6px rgba(0, 0, 0, 0.7);
-        position: relative;
-        display: flex;
-        align-items: center;
-        background-image: url('/images/main.jpg');
-        background-size: cover;
-        background-repeat: no-repeat;
-        background-position: center center;
-        background-attachment: fixed;
+    padding: 64px 32px;
+    color: white;
+    text-shadow: 1px 1px 6px rgba(0, 0, 0, 0.7);
+    position: relative;
+    display: flex;
+    align-items: center;
+    background-image: url('/images/main.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
 }
 
 .hero .container {
