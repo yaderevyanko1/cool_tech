@@ -616,6 +616,233 @@ const products = [
         image: "images/miksers/mikser5.jpg",
         description: "   Потужність 250 Bт  "
     },
+
+    {
+        id: 76,
+        name: "Міксер ECG RSM 4052",
+        price: 2350,
+        category: "small",
+        image: "images/miksers/mikser6.jpg",
+        description: "   Потужність 250 Bт  "
+    },
+
+    {
+        id: 77,
+        name: "Міксер KitchenAid 5KHM6118EER",
+        price: 9000,
+        category: "small",
+        image: "images/miksers/mikser7.png",
+        description: "   Потужність 850 Bт  "
+    },
+
+    {
+        id: 78,
+        name: "Міксер Philips HR3740/00",
+        price: 1900,
+        category: "small",
+        image: "images/miksers/mikser8.jpg",
+        description: "   Потужність 450 Bт  "
+    },
+
+    {
+        id: 79,
+        name: "Міксер Russell Hobbs Desire",
+        price: 1700,
+        category: "small",
+        image: "images/miksers/mikser9.jpg",
+        description: "   Потужність 350 Bт  "
+    },
+
+    {
+        id: 80,
+        name: "Міксер Vimar VX-414B",
+        price: 850,
+        category: "small",
+        image: "images/miksers/mikser10.jpg",
+        description: "   Потужність 500 Bт  "
+    },
+
+    {
+        id: 81,
+        name: "Ваги кухонні Magio MG-691",
+        price: 700,
+        category: "small",
+        image: "images/scales/scale1.png",
+        description: "Максимальна вага 5 кг"
+    },
+{
+        id: 82,
+        name: "Ваги кухонні Maxmark MK-SC120",
+        price: 400,
+        category: "small",
+        image: "images/scales/scale2.jpg",
+        description: "Максимальна вага 5 кг"
+    },
+
+    {
+        id: 83,
+        name: "Ваги кухонні SeaBreeze SB-071",
+        price: 200,
+        category: "small",
+        image: "images/scales/scale3.png",
+        description: "Максимальна вага 10 кг"
+    },
+
+    {
+        id: 84,
+        name: "Ваги кухонні Beurer KS 22",
+        price: 950,
+        category: "small",
+        image: "images/scales/scale4.jpg",
+        description: "Максимальна вага 5 кг"
+    },
+
+    {
+        id: 85,
+        name: "Ваги кухонні ECG SM KV 1120",
+        price: 1000,
+        category: "small",
+        image: "images/scales/scale5.jpg",
+        description: "Максимальна вага 5 кг"
+    },
+
+    {
+        id: 86,
+        name: "Ваги кухонні Esperanza EKS007",
+        price: 260,
+        category: "small",
+        image: "images/scales/scale6.jpg",
+        description: "Максимальна вага 5 кг"
+    },
+
+    {
+        id: 87,
+        name: "Ваги кухонні Magio MG-695",
+        price: 750,
+        category: "small",
+        image: "images/scales/scale7.jpg",
+        description: "Максимальна вага 5 кг"
+    },
+
+    {
+        id: 88,
+        name: "Ваги кухонні Rotex RSK18-P",
+        price: 460,
+        category: "small",
+        image: "images/scales/scale8.jpg",
+        description: "Максимальна вага 5 кг"
+    },
+    {
+        id: 89,
+        name: "Ваги кухонні Magio MG 290",
+        price: 500,
+        category: "small",
+        image: "images/scales/scale9.jpg",
+        description: "Максимальна вага 5 кг"
+    },
+
+    {
+        id: 90,
+        name: "Ваги кухонні Grunhelm KES-1PP",
+        price: 550,
+        category: "small",
+        image: "images/scales/scale10.jpg",
+        description: "Максимальна вага 5 кг"
+    },
+
+    {
+        id: 91,
+        name: "Бутербродниця Magio МG-379",
+        price: 1700,
+        category: "small",
+        image: "images/sandwiches/sandwich1.png",
+        description: "Потужність 750 Вт"
+    },
+
+    {
+        id: 92,
+        name: "Бутербродниця MPM MOP-43M",
+        price: 2800,
+        category: "small",
+        image: "images/sandwiches/sandwich2.jpg",
+        description: "Потужність 1000 Вт "
+    },
+
+    {
+        id: 93,
+        name: "Сендвічніца Ardesto SM-H400S",
+        price: 1300,
+        category: "small",
+        image: "images/sandwiches/sandwich3.jpg",
+        description: "Потужність 700 Вт "
+    },
+
+    {
+        id: 94,
+        name: "Сендвічниця Magio МG-364",
+        price: 1000,
+        category: "small",
+        image: "images/sandwiches/sandwich4.jpg",
+        description: "Потужність 900 Вт "
+    },
+
+    {
+        id: 95,
+        name: "Бутербродниця Rotex RSM110-W",
+        price: 660,
+        category: "small",
+        image: "images/sandwiches/sandwich5.jpg",
+        description: "Потужність 780 Вт "
+    },
+
+    {
+        id: 96,
+        name: "Бутербродниця SEVERIN SA 2968",
+        price: 2400,
+        category: "small",
+        image: "images/sandwiches/sandwich6.jpg",
+        description: "Потужність 750 Вт "
+    },
+
+    {
+        id: 97,
+        name: "Бутербродниця SEVERIN SA 2968",
+        price: 2500,
+        category: "small",
+        image: "images/sandwiches/sandwich7.jpg",
+        description: "Потужність 700 Вт "
+    },
+
+    {
+        id: 98,
+        name: "Сендвічніца Saturn ST-EC1082 Red",
+        price: 500,
+        category: "small",
+        image: "images/sandwiches/sandwich8.jpg",
+        description: "Потужність 700 Вт "
+    },
+
+    {
+        id: 99,
+        name: "Бутербродниця First First FA-5305-3",
+        price: 1400,
+        category: "small",
+        image: "images/sandwiches/sandwich9.png",
+        description: "Потужність 700 Вт "
+    },
+
+    {
+        id: 100,
+        name: "Бутербродниця Prime Technics PMM 501 X",
+        price: 1700,
+        category: "small",
+        image: "images/sandwiches/sandwich10.jpg",
+        description: "Потужність 800 Вт "
+    },
+
+
+    
+
     
     
 
