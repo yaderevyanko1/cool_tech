@@ -67,7 +67,7 @@ const products = [
     {
         id: 9,
         name: "Холодильник Samsung RB38C600ES9/UA",
-        price: 23000,
+        price: 27000,
         category: "fridges",
         image: "images/fridges/fridge9.png",
         description: "Двокамерний холодильник з No Frost та енергокласом A+"
@@ -75,7 +75,7 @@ const products = [
     {
         id: 10,
         name: "Холодильник Bosch KGN39UW316",
-        price: 23000,
+        price: 32000,
         category: "fridges",
         image: "images/fridges/fridge10.jpg",
         description: "Двокамерний холодильник з No Frost та енергокласом A++"
