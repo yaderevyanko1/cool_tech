@@ -514,8 +514,109 @@ const products = [
         image: "images/blenders/blender3.png",
         description: "   Потужність 800 Bт  "
     },
+    {
+        id: 64,
+        name: "Блендер Maxmark MK BL 800",
+        price: 1800,
+        category: "small",
+        image: "images/blenders/blender4.jpg",
+        description: "   Потужність 1000 Bт  "
+    },
+    {
+        id: 65,
+        name: "Блендер MPM MBL-11",
+        price: 2900,
+        category: "small",
+        image: "images/blenders/blender5.jpg",
+        description: "   Потужність 800 Bт  "
+    },
+    {
+        id: 66,
+        name: "Блендер Tefal BL871D31",
+        price: 4100,
+        category: "small",
+        image: "images/blenders/blender6.png",
+        description: "   Потужність 1200 Bт  "
+    },
+    {
+        id: 67,
+        name: "Блендер AENO TB2 ",
+        price: 4200,
+        category: "small",
+        image: "images/blenders/blender7.jpg",
+        description: "   Потужність 800 Bт  "
+    },
+    {
+        id: 68,
+        name: "Блендер Ardesto HBSG-1000WHCHSL",
+        price: 3000,
+        category: "small",
+        image: "images/blenders/blender8.jpg",
+        description: "   Потужність 1000 Bт  "
+    },
+    {
+        id: 69,
+        name: "Блендер Ariete 0585",
+        price: 2800,
+        category: "small",
+        image: "images/blenders/blender9.png",
+        description: "   Потужність 1000 Bт  "
+    },
+    
+    {
+        id: 70,
+        name: "Блендер Ariete 0585",
+        price: 2200,
+        category: "small",
+        image: "images/blenders/blender10.jpg",
+        description: "   Потужність 700 Bт  "
+    },
 
+    {
+        id: 71,
+        name: "Міксер Bosch MFQ 2210D",
+        price: 1300,
+        category: "small",
+        image: "images/miksers/mikser1.jpg",
+        description: "   Потужність 375 Bт  "
+    },
+    {
+        id: 72,
+        name: "Міксер MPM MMR-19/C",
+        price: 1500,
+        category: "small",
+        image: "images/miksers/mikser2.png",
+        description: "   Потужність 750 Bт  "
+    },
+    
 
+    {
+        id: 73,
+        name: "Міксер Tefal HT464138",
+        price: 4300,
+        category: "small",
+        image: "images/miksers/mikser3.jpg",
+        description: "   Потужність 750 Bт  "
+    },
+
+    {
+        id: 74,
+        name: "Міксер Tefal HT464138",
+        price: 2600,
+        category: "small",
+        image: "images/miksers/mikser4.png",
+        description: "   Потужність 800 Bт  "
+    },
+
+    {
+        id: 75,
+        name: "Міксер Ariete 1541 OR",
+        price: 850,
+        category: "small",
+        image: "images/miksers/mikser5.jpg",
+        description: "   Потужність 250 Bт  "
+    },
+    
     
 
 ];
