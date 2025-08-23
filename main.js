@@ -489,6 +489,33 @@ const products = [
         image: "images/kettles/kettle10.png",
         description: "  Об`єм 1.7 л  Потужність 2150 Вт  "
     },
+    {
+        id: 61,
+        name: "Блендер Bosch MSM 14200",
+        price: 1300,
+        category: "small",
+        image: "images/blenders/blender1.jpg",
+        description: "   Потужність 400 Bт  "
+    },
+    {
+        id: 62,
+        name: "Блендер Bosch MSM 2620 B",
+        price: 2000,
+        category: "small",
+        image: "images/blenders/blender2.jpg",
+        description: "   Потужність 600 Bт  "
+    },
+    
+    {
+        id: 63,
+        name: "Блендер Edler EDSB-9877",
+        price: 1400,
+        category: "small",
+        image: "images/blenders/blender3.png",
+        description: "   Потужність 800 Bт  "
+    },
+
+
     
 
 ];
