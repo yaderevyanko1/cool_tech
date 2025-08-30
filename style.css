@@ -103,7 +103,7 @@ a:hover {
     border-radius: 10px;
     padding-left: 10px;
     padding-right: 10px;
-    
+
 
 }
 
@@ -490,15 +490,14 @@ a:hover {
 
 .features-grid {
     display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
-        gap: 32px;
-        padding: 16px;
-        grid-auto-rows: 200px;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 32px;
+    padding: 16px;
+    grid-auto-rows: 200px;
 }
-           
 
-.feature-card1
-     {
+
+.feature-card1 {
     background-color: #ffffff;
     padding: 32px;
     border-radius: 12px;
@@ -508,9 +507,9 @@ a:hover {
     background-image: url('/images/fast-delivery.jpg');
     background-repeat: no-repeat;
     background-position: center;
-    background-size: cover;   
-         
-        
+    background-size: cover;
+
+
 }
 
 .feature-card2 {
@@ -922,4 +921,3 @@ a:hover {
         transform: translate(-50%, -50%);
     }
 }
-
