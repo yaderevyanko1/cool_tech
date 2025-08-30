@@ -1449,11 +1449,7 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     }
     
-    // Мобільне меню
-    if (elements.mobileMenuBtn) {
-        elements.mobileMenuBtn.addEventListener('click', toggleMobileMenu);
-    }
-    
+       
     // Кнопка "Нагору"
     if (elements.scrollTopBtn) {
         elements.scrollTopBtn.addEventListener('click', scrollToTop);
@@ -1484,15 +1480,7 @@ document.addEventListener('DOMContentLoaded', function() {
         }
     });
     
-    // Закриття мобільного меню при кліку на посилання
-    const navLinks = document.querySelectorAll('.nav-link');
-    navLinks.forEach(link => {
-        link.addEventListener('click', () => {
-            if (elements.navMenu && elements.navMenu.classList.contains('active')) {
-                toggleMobileMenu();
-            }
-        });
-    });
+    
     
     // Додаємо ripple ефект до кнопок
     const buttons = document.querySelectorAll('button, .btn');
@@ -1550,4 +1538,3 @@ style.textContent = `
 `;
 document.head.appendChild(style);
 
-console.log('🎉 CoolTech готовий до роботи!');
